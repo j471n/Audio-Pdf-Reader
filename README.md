@@ -1,5 +1,5 @@
 # Audio-Pdf-Reader
-This is a small project for to read the simple pdf in male and female voice as Well and Save that file in you PC in `.mp3` format Give Your suggesions for it. We will look at that as well.
+This is a tool that allows users to convert a PDF document into an audio file. To use the tool, a user must first provide the path to the PDF document that they want to convert. Once the PDF has been selected, the user will be prompted to choose between a male or female voice option for the audio file.	After that the tool will begin the process of converting the PDF into an audio file.
 
 ### Used Resources 
  - [Pyttsx3](https://pyttsx3.readthedocs.io/en/latest/engine.html#changing-voices)
